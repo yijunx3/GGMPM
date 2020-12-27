@@ -36,5 +36,5 @@ The tool provides outputs in "RESULTS" folder (name of the "RESULTS" folder is p
 
 
     Reference
-    Jawad Fayaz, Yijun Xiang, and Farzin Zareian (accepted). "Generalized Ground Motion Prediction Model (GGMPM) using Hybrid Neural Networks". Structural Dynamics and Earthquake Engineering.
+    Jawad Fayaz, Yijun Xiang, and Farzin Zareian (2020). "Generalized Ground Motion Prediction Model (GGMPM) using Hybrid Neural Networks". Structural Dynamics and Earthquake Engineering. https://onlinelibrary.wiley.com/doi/epdf/10.1002/eqe.3410
 
